@@ -1,0 +1,17 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+.title {
+    color: red;
+}
+
+.output {
+    height: 20px;
+    width: 200px;
+    border: 1px solid black;
+}
